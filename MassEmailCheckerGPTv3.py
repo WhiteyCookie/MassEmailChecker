@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Dec 30 13:05:20 2023
-@author: root
+@author: WhiteyCookie
 """
 
 import imaplib
