@@ -190,7 +190,7 @@ We welcome contributions to enhance MassEmailChecker. Please fork the repository
 
 # License
 
-MassEmailChecker is available under the MIT License. See the LICENSE file for more details.
+This project is released under the GNU General Public License (GPL), which provides copyleft for the distribution of free software. For more details, see the LICENSE file.
 
 # Acknowledgments
 
